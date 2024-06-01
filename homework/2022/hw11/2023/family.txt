@@ -1,0 +1,3 @@
+hasan 25 emine ali
+emine 50 zeynep kasım
+ali 52 gül ahmet

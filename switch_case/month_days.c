@@ -13,40 +13,40 @@ int main()
     switch(month)
     {
         case 1: 
-            printf("31 days");
+            printf("Its January and this month have 31 days");
             break;
         case 2: 
-            printf("28/29 days");
+            printf("Its February and this month have 28/29 days");
             break;
         case 3: 
-            printf("31 days");
+            printf("Its March and this month have 31 days");
             break;
         case 4: 
-            printf("30 days");
+            printf("Its April and this month have 30 days");
             break;
         case 5: 
-            printf("31 days");
+            printf("Its May and this month have 31 days");
             break;
         case 6: 
-            printf("30 days");
+            printf("Its June and this month have 30 days");
             break;
         case 7: 
-            printf("31 days");
+            printf("Its July and this month have 31 days");
             break;
         case 8: 
-            printf("31 days");
+            printf("Its August and this month have 31 days");
             break;
         case 9: 
-            printf("30 days");
+            printf("Its September and this month have 30 days");
             break;
         case 10: 
-            printf("31 days");
+            printf("Its October and this month have 31 days");
             break;
         case 11: 
-            printf("30 days");
+            printf("Its November and this month have 30 days");
             break;
         case 12: 
-            printf("31 days");
+            printf("Its December and this month have 31 days");
             break;
         default: 
             printf("Invalid input! Please enter month number between 1-12");

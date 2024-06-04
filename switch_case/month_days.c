@@ -19,34 +19,34 @@ int main()
             printf("Its February and this month have 28/29 days");
             break;
         case 3: 
-            printf("Its March and this month have 31 days");
+            printf("Its March and this month have 31 days. \n");
             break;
         case 4: 
-            printf("Its April and this month have 30 days");
+            printf("Its April and this month have 30 days. \n");
             break;
         case 5: 
-            printf("Its May and this month have 31 days");
+            printf("Its May and this month have 31 days. \n");
             break;
         case 6: 
-            printf("Its June and this month have 30 days");
+            printf("Its June and this month have 30 days. \n");
             break;
         case 7: 
-            printf("Its July and this month have 31 days");
+            printf("Its July and this month have 31 days. \n");
             break;
         case 8: 
-            printf("Its August and this month have 31 days");
+            printf("Its August and this month have 31 days. \n");
             break;
         case 9: 
-            printf("Its September and this month have 30 days");
+            printf("Its September and this month have 30 days. \n");
             break;
         case 10: 
-            printf("Its October and this month have 31 days");
+            printf("Its October and this month have 31 days. \n");
             break;
         case 11: 
-            printf("Its November and this month have 30 days");
+            printf("Its November and this month have 30 days. \n");
             break;
         case 12: 
-            printf("Its December and this month have 31 days");
+            printf("Its December and this month have 31 days. \n");
             break;
         default: 
             printf("Invalid input! Please enter month number between 1-12");

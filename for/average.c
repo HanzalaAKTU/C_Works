@@ -11,7 +11,7 @@ int main()
     for ( ; ; )
     {
         scanf("%d",&a);
-        if (a == 9999)
+        if (a == -1)
             break;
         
         sum += a;

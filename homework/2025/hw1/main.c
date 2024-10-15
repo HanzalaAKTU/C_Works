@@ -151,12 +151,10 @@ int main()
         scanf("%f %f",&point_x, &point_y);
 
         find_nearest_cluster(point_x, point_y); /*Find the nearest cluster for the point*/
-        
     }
     
     /*Print the final cluster centers and their point counts*/
     printf("\nCluster 1: %.2f, %.2f, %d \n",cluster1_x, cluster1_y, cluster1_point);
     printf("\nCluster 2: %.2f, %.2f, %d \n",cluster2_x, cluster2_y, cluster2_point);
     printf("\nCluster 3: %.2f, %.2f, %d \n",cluster3_x, cluster3_y, cluster3_point);
-
 }
